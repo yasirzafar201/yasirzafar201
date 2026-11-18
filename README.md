@@ -5,6 +5,7 @@
 **Data Engineer & Data Analyst | Computer Science Graduate (BSCS)**  
 Building resilient Python ETL pipelines, analytical SQL data warehouses, and actionable BI dashboards.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yasir--zafar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-zafar/)
 [![Email](https://img.shields.io/badge/Email-yasirzafar201%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirzafar201@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-0969DA?style=for-the-badge)](#)
