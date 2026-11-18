@@ -27,6 +27,7 @@ Building resilient Python ETL pipelines, analytical SQL data warehouses, and act
 
 | Project | Description | Key Concepts & Stack |
 | :--- | :--- | :--- |
+| **[🧠 Enterprise AI / RAG Knowledge Pipeline](https://github.com/yasirzafar201/rag-knowledge-pipeline)** | Production-resilient AI/RAG Data Engineering pipeline with pre-retrieval RBAC & multi-tenant isolation, Luhn PII scrubbing, indirect prompt-injection defense, SHA-256 CDC, Hybrid BM25+Vector RRF search, and GitHub Actions CI (**100% Recall@3 · 0.0% Leakage**). | `Python` `RAG` `SQLite` `BM25 + RRF` `RBAC` `PII Guard` `CDC` `GitHub Actions CI` |
 | **[🛒 E-Commerce Sales Data Engineering ETL Pipeline](https://github.com/yasirzafar201/ecommerce-data-pipeline)** | Production-resilient ETL/ELT pipeline processing messy multi-currency transactions into a SQLite Star-Schema analytical warehouse & cumulative CSV marts. Includes a [deep-dive engineering case study](https://github.com/yasirzafar201/ecommerce-data-pipeline/blob/main/docs/REAL_WORLD_CHALLENGES.md). | `Python` `SQL` `SQLite` `Dead-Letter Queue (DLQ)` `Schema Drift` `SHA-256 Idempotency` `ACID Upserts` `Unit Testing` |
 | **[⚡ OpsPulse DE](https://github.com/yasirzafar201/opspulse-de)** | Progressive, milestone-driven Data Engineering project built iteratively across ingestion, transformation, storage, and scaling stages. | `Python` `Data Engineering` `ETL Architecture` |
 
